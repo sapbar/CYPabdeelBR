@@ -1,0 +1,5 @@
+a=int(input("introduche un valor entero:"))
+b=int(input("dame otro valor entero:"))
+c=int(input("un valor entero mas:"))
+d=int(input("un valor entero mas:"))
+print(d , c , b , a)
